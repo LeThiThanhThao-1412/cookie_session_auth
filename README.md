@@ -33,3 +33,20 @@ GET http://localhost:3000/auth/profile
 GET http://localhost:3000/auth/logout
 ![alt text](public/img/6.png)
 ![alt text](public/img/7.png)
+5. Đăng ký lại với cùng username (lỗi)
+![alt text](public/img/8.png)
+6. Đăng ký lỗi username trống
+![alt text](public/img/9.png)
+7. Đăng ký lỗi password trống
+![alt text](public/img/10.png)
+Các trường hợp lỗi của ĐĂNG NHẬP (LOGIN)
+8. Sai username hoặc password
+![alt text](public/img/11.png)
+![alt text](public/img/12.png)
+9. Thiếu trường bắt buộc
+![alt text](public/img/13.png)
+![alt text](public/img/14.png)
+![alt text](public/img/15.png)
+
+
+
